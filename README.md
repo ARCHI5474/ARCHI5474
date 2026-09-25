@@ -67,3 +67,80 @@ GooglePixelが大好きです。Pixelを何台も持ってるわけではあり�
 
 実用性とシンプルさを大切にしたWebサービスを制作しています。  
 
+
+---
+
+# English
+
+## Hi there 👋
+
+I create and operate web services.
+
+Currently, I'm developing **PasideaSpace**, my web service brand.
+
+There's no particular meaning behind my nickname, "ARCHI5474."
+
+---
+
+## Main Projects
+
+### LifeTop
+
+A simple and practical web service designed for everyday use.
+
+### Money for what
+
+A web service currently in development for organizing your salary and how you use your money.
+
+### HimaRoLink / 暇人が作ったサイト
+
+A link-based portal website that I consider the starting point of my web development journey.
+
+It's no longer publicly available, but I'd love to create a revival version someday.
+
+---
+
+## About Me
+
+I mainly develop using:
+
+- HTML
+- CSS
+- JavaScript
+
+I first became interested in web development when I wanted to customize the browser experience on a certain game console for my own use.
+
+At first, it was just a simple page containing links to websites I frequently visited.
+
+As I gradually became more interested in creating websites, I eventually published it as a proper website called **"暇人が作ったサイト"**. It was later renamed **HimaRoLink**.
+
+For a long time, I built websites using mostly HTML, so my knowledge of CSS and JavaScript is still fairly limited.
+
+Currently, I use AI to assist me with development. Because of this, the quality and complexity of my published websites don't necessarily reflect my current coding skills.
+
+I'm learning little by little by reading and understanding the code generated with the help of AI. Someday, I'd like to be able to write the code entirely on my own.
+
+**Hobbies: Photography, photo editing/retouching, and web development**
+
+I have quite a few other interests too. I enjoy cycling around on my city bike, visiting public baths and cafés, and finding places where I can relax.
+
+Relaxation and comfort are important parts of how I live.
+
+I'm also a bit of a gadget enthusiast.
+
+I really like Google Pixel devices. I don't own a whole collection of Pixels, but I currently use a Pixel 8a. My PC is an NEC VersaPro VKV-18.
+
+When choosing and using gadgets, what matters to me isn't whether something is the most powerful or futuristic.
+
+What matters is whether it's **comfortable and pleasant to use**.
+
+I believe that **convenience and comfort aren't necessarily the same thing.**
+
+---
+
+## 🌐 PasideaSpace
+
+**"Providing a comfortable user experience."**
+
+I create simple and practical web services with a focus on delivering a comfortable user experience.
+
