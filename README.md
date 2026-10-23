@@ -8,6 +8,32 @@ Webサービスの制作・運営をしています。
 
 ---
 
+
+## SNS
+
+<p align="left">
+  <a href="https://discord.com/users/1246794019623931955">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="36" height="36">
+  </a>
+  &nbsp;
+  <a href="https://x.com/ARCHI_5474">
+    <img src="https://cdn.simpleicons.org/x/888888" alt="X" width="36" height="36">
+  </a>
+  &nbsp;
+  <a href="https://suno.com/@Arch5474">
+    <img src="https://cdn.simpleicons.org/suno/888888" alt="Suno" width="36" height="36">
+  </a>
+  &nbsp;
+  <a href="https://bsky.app/profile/5474arch.bsky.social">
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="36" height="36">
+  </a>
+</p>
+
+
+
+
+---
+
 ## 主要プロジェクト
 
 ### LifeTop
