@@ -20,8 +20,7 @@ Webサービスの制作・運営をしています。
     <img src="https://cdn.simpleicons.org/x/888888" alt="X" width="36" height="36">
   </a>
   &nbsp;
-  <a href="https://suno.com/@Arch5474">
-    <img src="https://cdn.simpleicons.org/suno/888888" alt="Suno" width="36" height="36">
+  
   </a>
   &nbsp;
   <a href="https://bsky.app/profile/5474arch.bsky.social">
